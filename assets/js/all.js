@@ -105,7 +105,7 @@ document.getElementById('modal').innerHTML = `<div class="modal-container js-mod
                 <img src="https://perfumegraphy.com/_idio/img/sch.svg" alt="">
             </div>
             <div class="suggestion_box-item-text">
-                <p>Nước hoa</p>
+                <p>Gaming keyboard</p>
             </div>
         </a>
     </div>
@@ -115,7 +115,7 @@ document.getElementById('modal').innerHTML = `<div class="modal-container js-mod
                 <img src="https://perfumegraphy.com/_idio/img/sch.svg" alt="">
             </div>
             <div class="suggestion_box-item-text">
-                <p>Nước hoa</p>
+                <p>Gaming mouse</p>
             </div>
         </a>
     </div>
@@ -125,7 +125,7 @@ document.getElementById('modal').innerHTML = `<div class="modal-container js-mod
                 <img src="https://perfumegraphy.com/_idio/img/sch.svg" alt="">
             </div>
             <div class="suggestion_box-item-text">
-                <p>Nước hoa</p>
+                <p>Gaming keyboard</p>
             </div>
         </a>
     </div>
@@ -135,7 +135,7 @@ document.getElementById('modal').innerHTML = `<div class="modal-container js-mod
                 <img src="https://perfumegraphy.com/_idio/img/sch.svg" alt="">
             </div>
             <div class="suggestion_box-item-text">
-                <p>Nước hoa</p>
+                <p>Gaming mouse</p>
             </div>
         </a>
     </div>
